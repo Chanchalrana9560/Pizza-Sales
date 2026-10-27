@@ -113,7 +113,7 @@ The dashboard provides daily and monthly sales analysis, allowing comparisons ac
 
 ### Pizza Sales Dashboard
 
-![Pizza Sales Dashboard](dashboard/Dashboard.png)
+![Pizza Sales Dashboard](Dashboard.png)
 
 ---
 
