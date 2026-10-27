@@ -100,7 +100,7 @@ The dashboard provides daily and monthly sales analysis, allowing comparisons ac
 
 | **File** | **Description** |
 |---|---|
-| `Pizza_Sales_Dashboard.png` | Pizza Sales Dashboard preview |
+| `Dashboard.png` | Pizza Sales Dashboard preview |
 | `pizza_sales.csv` | Pizza sales dataset |
 | `Pizza_Sales_Analysis.xlsx` | Excel workbook containing the analysis |
 | `README.md` | Project documentation |
